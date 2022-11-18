@@ -1,0 +1,4 @@
+Oi, Thamiris do Futuro! 
+Aqui é a Thamiris do passado.
+Você conseguiu aprender a usar
+Git?
